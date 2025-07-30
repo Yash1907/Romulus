@@ -1,0 +1,31 @@
+{
+  "Nintendo": {
+    "Family Computer Disk System": "FamiCom",
+    "Game Boy Advance": "GBA",
+    "Game Boy Color": "GBC",
+    "Game Boy": "GB",
+    "Nintendo 64": "N64",
+    "Nintendo Entertainment System": "NES",
+    "Pokemon Mini": "Pokemon_Mini",
+    "Super Nintendo Entertainment System": "SNES",
+    "Virtual Boy": "Virtual_Boy",
+    "Nintendo DS": "NDS",
+    "Nintendo 3DS": "3DS",
+    "Nintendo GameCube": "GameCube",
+    "Nintendo Wii": "Wii"
+  },
+  "Sony": {
+    "PlayStation": "PS1",
+    "PlayStation 2": "PS2",
+    "PlayStation 3": "PS3",
+    "PlayStation Portable": "PSP"
+  },
+  "Sega": {
+    "Sega Game Gear": "Game_Gear",
+    "Sega Master System - MARK III": "Master_System",
+    "Sega Genesis": "Genesis",
+    "Sega Dreamcast": "Dreamcast",
+    "Sega Saturn": "Saturn",
+    "Sega CD": "CD"
+  }
+}

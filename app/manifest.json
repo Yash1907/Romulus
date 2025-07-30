@@ -1,0 +1,25 @@
+{
+  "name": "Romulus - ROMs Downloader",
+  "short_name": "Romulus",
+  "description": "A retro-styled ROM management application for discovering and organizing classic games",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#808080",
+  "theme_color": "#9ca3af",
+  "orientation": "portrait-primary",
+  "categories": ["games", "entertainment", "utilities"],
+  "icons": [
+    {
+      "src": "/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

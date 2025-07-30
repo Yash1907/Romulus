@@ -1,0 +1,31 @@
+{
+  "Nintendo":{
+    "Family Computer Disk System":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/",
+    "Game Boy Advance":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/",
+    "Game Boy Color":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/",
+    "Game Boy":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/",
+    "Nintendo 64":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/",
+    "Nintendo Entertainment System":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/",
+    "Pokemon Mini":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Pokemon%20Mini/",
+    "Super Nintendo Entertainment System":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/",
+    "Virtual Boy":"https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/",
+    "Nintendo DS":["https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Encrypted)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20(Decrypted)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20(Encrypted)/"],
+    "Nintendo 3DS":["https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20New%20Nintendo%203DS%20(Decrypted)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20New%20Nintendo%203DS%20(Encrypted)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Deprecated)/","https://myrient.erista.me/files/No-Intro/Nintendo%20-%20New%20Nintendo%203DS%20(Digital)%20(Deprecated)/"],
+    "Nintendo GameCube":"https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/",
+    "Nintendo Wii":"https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/"
+  },
+  "Sony":{
+    "PlayStation":"https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/",
+    "PlayStation 2":"https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/",
+    "PlayStation 3":"https://nopaystation.com/tsv/PS3_GAMES.tsv",
+    "PlayStation Portable":"https://nopaystation.com/tsv/PSP_GAMES.tsv"
+  },
+  "Sega":{
+    "Sega Game Gear":"https://myrient.erista.me/files/No-Intro/Sega%20-%20Game%20Gear/",
+    "Sega Master System - MARK III":"https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/",
+    "Sega Genesis":"https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/",
+    "Sega Dreamcast":"https://myrient.erista.me/files/Internet%20Archive/cmpltromsets/almstcmpltdrmcst/",
+    "Sega Saturn":"https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_saturn/CHD-Saturn/USA/",
+    "Sega CD":"https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_saturn/CHD-Saturn/USA/"
+  }
+}
